@@ -1,0 +1,9 @@
+#PBS -N CB-COSFIRE-Compile
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=00:25:00
+#PBS -j oe
+#cd $PBS_O_WORKDIR
+#mcc -m Scripts/training.m -R -singleCompThread -d compile -I COSFIRE
+mcc -m Scripts/testing.m -R -singleCompThread -R -nojvm -R -nodisplay -d compile -I COSFIRE -I libsvm-3.17/matlab -I Original/COSFIRE -I Original/Gabor
+mcc -m Scripts/MergeResult.m -R -singleCompThread -R -nojvm -R -nodisplay -d compile -I libsvm-3.17/matlab
+#cp compile/run_testing2.sh compile/run_testing.sh

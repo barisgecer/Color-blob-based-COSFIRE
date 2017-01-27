@@ -1,0 +1,29 @@
+# Run MATLAB
+min=10 #300 #250 #110 #220 #75 # Training Time
+min_=$(expr "$min" + 1)
+min2=700 #300(249) #680(49) #280 #180 #90 #30 #40 #350 # Testing Time
+min3=700 # Svm Time
+minDummy=120
+sum=$(expr "$min_" + "$minDummy" + 1)
+now=$(date)
+name=$(date -d "$now" +'%d-%h-%Y_%H-%M')
+subdate=$(date -d "$now $min_ mins" +'%H%M' )
+subdate2=$(date -d "$now $sum mins" +'%H%M' )
+echo $name > name.txt
+echo $min > compile/min.txt
+mcc -m Scripts/initialize.m  -R -singleCompThread -R -nojvm -R -nodisplay -d compile -I COSFIRE
+wait
+cd compile
+./initialize $name $subdate $subdate2 $min2  $min3
+cd ..
+#./compile/run_initialize.sh  /cm/shared/apps/matlab/2012a $name $subdate $subdate2 $min2
+#matlab -nodisplay -r "initialize $name $subdate $subdate2 $min2,quit"
+wait
+#qsub -q nodes Exps/$name/train.sh -l walltime=00:$min:00
+cd Exps/$name/
+chmod 744 traincall.sh
+./traincall.sh
+cd jobs
+chmod 744 submitjobs.sh
+
+./submitjobs.sh
