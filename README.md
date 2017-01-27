@@ -19,11 +19,13 @@ If you find this paper or code useful, we encourage you to cite the paper. BibTe
 Below we have short explanations of the scripts:
 
 /demos
+
 	Contain two simple examples to show how can you use the code
 		- Toy example of faces
 		- Marylin image
 
 /CCOSFIRE
+
 	Contains the core functions of our approach
 	
  /ts
