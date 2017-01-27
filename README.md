@@ -6,7 +6,7 @@ This is the code required to run the Color-blob-based COSFIRE filters, the codes
 
 If you find this paper or code useful, we encourage you to cite the paper. BibTeX:
 
-@article{gecer2016color,
+> @article{gecer2016color,
   title={Color-blob-based COSFIRE filters for object recognition},
   author={Gecer, Baris and Azzopardi, George and Petkov, Nicolai},
   journal={Image and Vision Computing},
