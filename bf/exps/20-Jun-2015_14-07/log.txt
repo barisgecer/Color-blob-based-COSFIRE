@@ -1,0 +1,576 @@
+training:started! - 0.1256 min 
+training:done! - 2.9404 min 
+node(82):started! - 10.1748 min 
+node(15):started! - 10.1754 min 
+node(17):started! - 10.1769 min 
+node(35):started! - 10.1818 min 
+node(37):started! - 10.1829 min 
+node(16):started! - 10.1839 min 
+node(3):started! - 10.1875 min 
+node(5):started! - 10.1891 min 
+node(4):started! - 10.1933 min 
+node(7):started! - 10.1947 min 
+node(38):started! - 10.198 min 
+node(8):started! - 10.2025 min 
+node(10):started! - 10.2022 min 
+node(6):started! - 10.2071 min 
+node(13):started! - 10.2103 min 
+node(14):started! - 10.2108 min 
+node(9):started! - 10.2113 min 
+node(12):started! - 10.2118 min 
+node(11):started! - 10.2127 min 
+node(1):started! - 10.2144 min 
+node(42):started! - 10.2156 min node(18):started! - 10.2163 min 
+node(19):started! - 10.2237 min 
+node(20):started! - 10.256 min 
+node(21):started! - 10.2567 min 
+node(23):started! - 10.283 min 
+node(24):started! - 10.2881 min 
+node(28):started! - 10.2942 min 
+node(53):started! - 10.2991 min 
+node(54):started! - 10.3001 min 
+node(22):started! - 10.3029 min 
+node(30):started! - 10.3064 min 
+node(33):started! - 10.3134 min 
+node(31):started! - 10.3147 min 
+node(32):started! - 10.3244 min 
+node(25):started! - 10.3284 min 
+node(27):started! - 10.3287 min 
+node(34):started! - 10.328 min 
+node(29):started! - 10.3291 min 
+node(26):started! - 10.3299 min 
+node(47):started! - 10.3452 min 
+node(39):started! - 10.3455 min 
+node(44):started! - 10.3488 min 
+node(55):started! - 10.3546 min 
+node(58):started! - 10.3554 min 
+node(45):started! - 10.357 min 
+node(43):started! - 10.3609 min 
+node(41):started! - 10.3616 min 
+node(57):started! - 10.3626 min 
+node(59):started! - 10.3632 min 
+node(56):started! - 10.3644 min 
+node(62):started! - 10.3661 min 
+node(80):started! - 10.3663 min 
+node(60):started! - 10.3685 min 
+node(46):started! - 10.3689 min 
+node(52):started! - 10.3697 min 
+de(61):started! - 10.37 min 
+node(63):started! - 10.3703 min 
+node(49):started! - 10.3728 min 
+node(48):started! - 10.373 min 
+node(50):started! - 10.3728 min 
+node(51):started! - 10.3737 min 
+node(36):started! - 10.3756 min 
+node(66):started! - 10.3747 min 
+node(40):started! - 10.3793 min 
+node(69):started! - 10.4128 min 
+node(67):started! - 10.4159 min 
+node(70):started! - 10.4176 min 
+node(68):started! - 10.4257 min 
+node(75):started! - 10.4287 min 
+node(77):started! - 10.4311 min 
+node(72):started! - 10.4341 min 
+node(73):started! - 10.4344 min 
+node(86):started! - 10.4368 min 
+node(74):started! - 10.4359 min 
+node(84):started! - 10.4386 min 
+node(87):started! - 10.4405 min 
+node(79):started! - 10.4421 min 
+node(78):started! - 10.4448 min 
+node(88):started! - 10.4466 min 
+node(90):started! - 10.4507 min 
+node(92):started! - 10.4541 min 
+node(94):started! - 10.4541 min 
+node(93):started! - 10.4549 min 
+node(95):started! - 10.4559 min 
+node(96):started! - 11.9914 min 
+node(10):trainingSet is done! - 26.6904 min 
+node(1):trainingSet is done! - 26.7417 min 
+node(49):trainingSet is done! - 26.7435 min 
+node(87):trainingSet is done! - 26.7965 min 
+node(39):trainingSet is done! - 26.8099 min 
+node(29):trainingSet is done! - 26.8426 min 
+node(20):trainingSet is done! - 26.9477 min 
+node(58):trainingSet is done! - 26.9914 min 
+node(77):trainingSet is done! - 27.0904 min 
+node(68):trainingSet is done! - 27.991 min 
+node(64):trainingSet is done! - 42.3133 min 
+node(88):trainingSet is done! - 42.5732 min 
+node(63):trainingSet is done! - 42.6134 min 
+node(54):trainingSet is done! - 42.6747 min 
+node(38):trainingSet is done! - 42.6874 min 
+node(37):trainingSet is done! - 42.6948 min 
+node(60):trainingSet is done! - 42.7391 min 
+node(61):trainingSet is done! - 42.7458 min 
+node(35):trainingSet is done! - 42.8534 min 
+node(17):trainingSet is done! - 42.8559 min 
+node(5):trainingSet is done! - 42.9362 min 
+node(57):trainingSet is done! - 42.944 min 
+node(83):trainingSet is done! - 42.962 min 
+node(62):trainingSet is done! - 42.9977 min 
+node(89):trainingSet is done! - 43.0276 min 
+node(95):trainingSet is done! - 43.055 min 
+node(52):trainingSet is done! - 43.0606 min 
+node(80):trainingSet is done! - 43.0995 min 
+node(21):trainingSet is done! - 43.1176 min 
+node(85):trainingSet is done! - 43.1305 min 
+node(14):trainingSet is done! - 43.1407 min 
+node(56):trainingSet is done! - 43.1461 min 
+node(47):trainingSet is done! - 43.1515 min 
+node(48):trainingSet is done! - 43.1595 min 
+node(92):trainingSet is done! - 43.1846 min 
+node(43):trainingSet is done! - 43.1851 min 
+node(19):trainingSet is done! - 43.194 min 
+node(51):trainingSet is done! - 43.2001 min 
+node(36):trainingSet is done! - 43.2065 min 
+node(33):trainingSet is done! - 43.2093 min 
+node(90):trainingSet is done! - 43.2264 min 
+node(91):trainingSet is done! - 43.2371 min 
+node(9):trainingSet is done! - 43.2393 min 
+node(7):trainingSet is done! - 43.2551 min 
+node(46):trainingSet is done! - 43.2723 min 
+node(81):trainingSet is done! - 43.2785 min 
+node(22):trainingSet is done! - 43.2802 min 
+node(86):trainingSet is done! - 43.294 min 
+node(44):trainingSet is done! - 43.2976 min 
+node(42):trainingSet is done! - 43.2998 min 
+node(12):trainingSet is done! - 43.3083 min 
+node(84):trainingSet is done! - 43.3135 min 
+node(82):trainingSet is done! - 43.3294 min 
+node(3):trainingSet is done! - 43.3514 min 
+node(16):trainingSet is done! - 43.3554 min 
+node(8):trainingSet is done! - 43.379 min 
+node(34):trainingSet is done! - 43.4295 min 
+node(25):trainingSet is done! - 43.43 min 
+node(6):trainingSet is done! - 43.4349 min 
+node(11):trainingSet is done! - 43.4374 min 
+node(2):trainingSet is done! - 43.4508 min 
+node(32):trainingSet is done! - 43.4659 min 
+node(55):trainingSet is done! - 43.4666 min 
+node(41):trainingSet is done! - 43.4705 min 
+node(26):trainingSet is done! - 43.5266 min 
+node(23):trainingSet is done! - 43.5328 min 
+node(50):trainingSet is done! - 43.5622 min 
+node(28):trainingSet is done! - 43.6161 min 
+node(70):trainingSet is done! - 43.6239 min 
+node(31):trainingSet is done! - 43.6714 min 
+node(15):trainingSet is done! - 43.7341 min 
+node(59):trainingSet is done! - 43.7792 min 
+node(40):trainingSet is done! - 43.8006 min 
+node(24):trainingSet is done! - 43.8941 min 
+node(27):trainingSet is done! - 43.9186 min 
+node(67):trainingSet is done! - 43.9419 min 
+node(75):trainingSet is done! - 43.9685 min 
+node(73):trainingSet is done! - 44.044 min 
+node(30):trainingSet is done! - 44.0512 min 
+node(18):trainingSet is done! - 44.0993 min 
+node(65):trainingSet is done! - 44.1077 min 
+node(45):trainingSet is done! - 44.1616 min 
+node(94):trainingSet is done! - 44.1626 min 
+node(71):trainingSet is done! - 44.2396 min 
+node(79):trainingSet is done! - 44.4071 min 
+node(53):trainingSet is done! - 44.5286 min 
+node(78):trainingSet is done! - 44.5314 min 
+node(76):trainingSet is done! - 44.5792 min 
+node(93):trainingSet is done! - 44.6285 min 
+node(96):trainingSet is done! - 44.853 min 
+node(74):trainingSet is done! - 44.878 min 
+node(4):trainingSet is done! - 45.3567 min 
+node(72):trainingSet is done! - 45.514 min 
+node(66):trainingSet is done! - 45.7369 min 
+node(13):trainingSet is done! - 46.5899 min 
+node(69):trainingSet is done! - 46.9405 min 
+node(1):testingSet is done! - 92.3188 min 
+node(1):saved! - 92.319 min 
+node(61):testingSet is done! - 107.12 min 
+node(61):saved! - 107.1204 min 
+node(63):testingSet is done! - 107.5281 min 
+node(63):saved! - 107.5282 min 
+node(47):testingSet is done! - 107.7221 min 
+node(47):saved! - 107.7222 min 
+node(52):testingSet is done! - 107.7681 min 
+node(52):saved! - 107.7683 min 
+node(54):testingSet is done! - 107.78 min 
+node(54):saved! - 107.7801 min 
+node(56):testingSet is done! - 107.8765 min 
+node(56):saved! - 107.8768 min 
+node(34):testingSet is done! - 107.9011 min 
+node(34):saved! - 107.9012 min 
+node(92):testingSet is done! - 107.9011 min 
+node(92):saved! - 107.9015 min 
+node(85):testingSet is done! - 108.0418 min 
+node(85):saved! - 108.0421 min 
+node(7):testingSet is done! - 108.0895 min 
+node(7):saved! - 108.0898 min 
+node(41):testingSet is done! - 108.1026 min 
+node(41):saved! - 108.1028 min 
+node(81):testingSet is done! - 108.1372 min 
+node(81):saved! - 108.1373 min 
+node(9):testingSet is done! - 108.1639 min 
+node(9):saved! - 108.1642 min 
+node(14):testingSet is done! - 108.2379 min 
+node(14):saved! - 108.2383 min 
+node(43):testingSet is done! - 108.2468 min 
+node(43):saved! - 108.247 min 
+node(20):testingSet is done! - 108.2723 min 
+node(20):saved! - 108.2725 min 
+node(5):testingSet is done! - 108.3265 min 
+node(5):saved! - 108.3268 min 
+node(21):testingSet is done! - 108.3829 min 
+node(21):saved! - 108.3831 min 
+node(3):testingSet is done! - 108.421 min 
+node(3):saved! - 108.4217 min 
+node(12):testingSet is done! - 108.4348 min 
+node(12):saved! - 108.4352 min 
+node(87):testingSet is done! - 108.5095 min 
+node(87):saved! - 108.5096 min 
+node(58):testingSet is done! - 108.5108 min 
+node(58):saved! - 108.511 min 
+node(25):testingSet is done! - 108.5229 min 
+node(25):saved! - 108.523 min 
+node(90):testingSet is done! - 108.5574 min 
+node(90):saved! - 108.5578 min 
+node(88):testingSet is done! - 108.613 min 
+node(88):saved! - 108.6133 min 
+node(23):testingSet is done! - 108.7003 min 
+node(23):saved! - 108.7004 min 
+node(70):testingSet is done! - 109 min 
+node(70):saved! - 109.0004 min 
+node(39):testingSet is done! - 109.0142 min 
+node(39):saved! - 109.0144 min 
+node(36):testingSet is done! - 109.0455 min 
+node(36):saved! - 109.0458 min 
+node(50):testingSet is done! - 109.1511 min 
+node(50):saved! - 109.1514 min 
+node(83):testingSet is done! - 109.1629 min 
+node(83):saved! - 109.1633 min 
+node(10):testingSet is done! - 109.336 min 
+node(10):saved! - 109.3362 min 
+node(94):testingSet is done! - 109.4789 min 
+node(94):saved! - 109.4791 min 
+node(29):testingSet is done! - 109.5322 min 
+node(29):saved! - 109.5323 min 
+node(77):testingSet is done! - 109.7373 min 
+node(77):saved! - 109.7375 min 
+node(32):testingSet is done! - 109.7893 min 
+node(32):saved! - 109.7897 min 
+node(67):testingSet is done! - 109.7915 min 
+node(67):saved! - 109.7918 min 
+node(38):testingSet is done! - 109.9825 min 
+node(38):saved! - 109.9828 min 
+node(27):testingSet is done! - 110.3627 min 
+node(27):saved! - 110.3631 min 
+node(59):testingSet is done! - 110.4004 min 
+node(59):saved! - 110.4006 min 
+node(16):testingSet is done! - 110.51 min 
+node(16):saved! - 110.5104 min 
+node(49):testingSet is done! - 110.7176 min 
+node(49):saved! - 110.718 min 
+node(65):testingSet is done! - 110.7724 min 
+node(65):saved! - 110.7726 min 
+node(30):testingSet is done! - 111.3567 min 
+node(30):saved! - 111.357 min 
+node(76):testingSet is done! - 111.5748 min 
+node(76):saved! - 111.575 min 
+node(45):testingSet is done! - 111.597 min 
+node(45):saved! - 111.5973 min 
+node(79):testingSet is done! - 111.932 min 
+node(79):saved! - 111.9324 min 
+node(18):testingSet is done! - 112.066 min 
+node(18):saved! - 112.0666 min 
+node(74):testingSet is done! - 112.5961 min 
+node(74):saved! - 112.5964 min 
+node(72):testingSet is done! - 115.5923 min 
+node(72):saved! - 115.5926 min 
+node(68):testingSet is done! - 116.0101 min 
+node(68):saved! - 116.0104 min 
+merge:done for node(1) - 136.9242 min 
+merge:waiting for node(2) - 136.9249 min 
+node(8):started! - 137.3825 min 
+node(4):started! - 137.3829 min 
+node(8):trainingSet is loading! - 137.3836 min 
+node(4):trainingSet is loading! - 137.3836 min 
+node(11):started! - 137.3848 min 
+node(11):trainingSet is loading! - 137.3855 min 
+node(15):started! - 137.386 min 
+node(15):trainingSet is loading! - 137.3871 min 
+node(2):started! - 137.3874 min 
+node(2):trainingSet is loading! - 137.3882 min 
+node(6):started! - 137.3874 min 
+node(6):trainingSet is loading! - 137.3883 min 
+node(13):started! - 137.3941 min 
+node(13):trainingSet is loading! - 137.395 min 
+node(24):started! - 137.7418 min 
+node(24):trainingSet is loading! - 137.7439 min 
+node(19):started! - 137.7447 min 
+node(19):trainingSet is loading! - 137.7465 min 
+node(22):started! - 137.7443 min 
+node(22):trainingSet is loading! - 137.7468 min 
+node(17):started! - 137.7625 min 
+node(17):trainingSet is loading! - 137.765 min 
+node(89):started! - 137.7722 min 
+node(89):trainingSet is loading! - 137.7731 min 
+node(86):started! - 137.7727 min 
+node(80):started! - 137.7727 min 
+node(31):started! - 137.7709 min 
+ 137.7734 min 
+node(80):trainingSet is loading! - 137.7735 min 
+node(31):trainingSet is loading! - 137.7736 min 
+node(33):started! - 137.7734 min 
+node(33):trainingSet is loading! - 137.7761 min 
+node(84):started! - 137.7779 min 
+node(84):trainingSet is loading! - 137.7788 min 
+node(95):started! - 137.7785 min 
+node(95):trainingSet is loading! - 137.7794 min 
+node(93):started! - 137.78 min 
+node(96):started! - 137.7801 min 
+node(91):started! - 137.78 min 
+node(96):trainingSet is loading! - 137.7809 min 
+node(93):trainingSet is loading! - 137.7809 min 
+node(91):trainingSet is loading! - 137.7809 min 
+node(82):started! - 137.7829 min 
+node(82):trainingSet is loading! - 137.7837 min 
+node(26):started! - 137.7912 min 
+node(26):trainingSet is loading! - 137.7942 min 
+node(28):started! - 137.795 min 
+node(28):trainingSet is loading! - 137.7979 min 
+node(44):started! - 137.856 min 
+node(44):trainingSet is loading! - 137.8587 min 
+node(42):started! - 137.8634 min 
+node(42):trainingSet is loading! - 137.866 min 
+node(40):started! - 137.8684 min 
+node(35):started! - 137.8692 min 
+node(40):trainingSet is loading! - 137.8711 min 
+node(35):trainingSet is loading! - 137.8715 min 
+node(46):started! - 137.8786 min 
+node(46):trainingSet is loading! - 137.8811 min 
+node(48):started! - 137.8888 min 
+node(48):trainingSet is loading! - 137.891 min 
+node(53):started! - 137.8951 min 
+node(53):trainingSet is loading! - 137.8971 min 
+node(55):started! - 137.8983 min 
+node(55):trainingSet is loading! - 137.9004 min 
+node(60):started! - 137.9021 min 
+node(60):trainingSet is loading! - 137.905 min 
+node(37):started! - 137.9077 min 
+node(37):trainingSet is loading! - 137.9095 min 
+node(62):started! - 137.9113 min 
+node(62):trainingSet is loading! - 137.9127 min 
+node(71):started! - 137.9138 min 
+node(71):trainingSet is loading! - 137.9152 min 
+node(64):started! - 137.9171 min 
+node(64):trainingSet is loading! - 137.9184 min 
+node(66):started! - 137.9182 min 
+node(66):trainingSet is loading! - 137.9194 min 
+node(69):started! - 137.9185 min 
+node(69):trainingSet is loading! - 137.9196 min 
+node(57):started! - 137.9186 min 
+node(57):trainingSet is loading! - 137.9202 min 
+node(75):started! - 137.9197 min 
+node(75):trainingSet is loading! - 137.921 min 
+node(73):started! - 137.9209 min 
+node(51):started! - 137.9209 min 
+node(51):trainingSet is loading! - 137.922 min 
+node(73):trainingSet is loading! - 137.922 min 
+node(78):started! - 137.9224 min 
+node(78):trainingSet is loading! - 137.9237 min 
+node(96):testingSet is done! - 217.7992 min 
+node(96):saved! - 217.7995 min 
+merge:done for node(1) - 217.8089 min 
+merge:waiting for node(2) - 217.8089 min 
+node(86):testingSet is done! - 218.1224 min 
+node(86):saved! - 218.1227 min 
+node(31):testingSet is done! - 218.162 min 
+node(31):saved! - 218.1621 min 
+node(26):testingSet is done! - 218.1856 min 
+node(26):saved! - 218.1858 min 
+node(6):testingSet is done! - 218.3005 min 
+node(6):saved! - 218.3009 min 
+merge:waiting for node(2) - 218.311 min 
+node(89):testingSet is done! - 218.4117 min 
+node(89):saved! - 218.412 min 
+node(80):testingSet is done! - 218.4225 min 
+node(80):saved! - 218.4229 min 
+node(93):testingSet is done! - 218.4724 min 
+node(93):saved! - 218.4728 min 
+node(91):testingSet is done! - 218.5914 min 
+node(91):saved! - 218.5918 min 
+node(95):testingSet is done! - 218.6043 min 
+node(95):saved! - 218.6046 min 
+node(82):testingSet is done! - 218.7107 min 
+node(82):saved! - 218.7111 min 
+merge:waiting for node(2) - 218.8134 min 
+node(28):testingSet is done! - 218.8572 min 
+node(28):saved! - 218.8576 min 
+node(84):testingSet is done! - 218.8781 min 
+node(84):saved! - 218.8784 min 
+node(13):testingSet is done! - 218.946 min 
+node(13):saved! - 218.9463 min 
+node(46):testingSet is done! - 219.2818 min 
+node(46):saved! - 219.282 min 
+merge:waiting for node(2) - 219.316 min 
+node(15):testingSet is done! - 219.5827 min 
+node(15):saved! - 219.5831 min 
+node(22):testingSet is done! - 219.6494 min 
+node(22):saved! - 219.6497 min 
+node(8):testingSet is done! - 219.7678 min 
+node(8):saved! - 219.7681 min 
+node(4):testingSet is done! - 219.8072 min 
+node(4):saved! - 219.8076 min 
+merge:waiting for node(2) - 219.8185 min 
+node(48):testingSet is done! - 219.9458 min 
+node(48):saved! - 219.9461 min 
+node(60):testingSet is done! - 220.0888 min 
+node(60):saved! - 220.089 min 
+node(73):testingSet is done! - 220.1664 min 
+node(73):saved! - 220.1665 min 
+node(19):testingSet is done! - 220.2165 min 
+node(19):saved! - 220.2169 min 
+node(40):testingSet is done! - 220.261 min 
+node(40):saved! - 220.2611 min 
+merge:waiting for node(2) - 220.3213 min 
+node(69):testingSet is done! - 220.3221 min 
+node(69):saved! - 220.3223 min 
+node(44):testingSet is done! - 220.3498 min 
+node(44):saved! - 220.35 min 
+node(24):testingSet is done! - 220.4218 min 
+node(24):saved! - 220.4221 min 
+node(55):testingSet is done! - 220.5607 min 
+node(55):saved! - 220.5609 min 
+node(35):testingSet is done! - 220.6662 min 
+node(35):saved! - 220.6664 min 
+node(75):testingSet is done! - 220.7359 min 
+node(75):saved! - 220.7361 min 
+node(11):testingSet is done! - 220.7471 min 
+node(11):saved! - 220.7475 min 
+node(51):testingSet is done! - 220.7783 min 
+node(51):saved! - 220.7785 min 
+node(33):testingSet is done! - 220.7846 min 
+node(33):saved! - 220.785 min 
+node(57):testingSet is done! - 220.7971 min 
+node(57):saved! - 220.7973 min 
+merge:waiting for node(2) - 220.8238 min 
+node(37):testingSet is done! - 220.8858 min 
+node(37):saved! - 220.886 min 
+node(78):testingSet is done! - 220.8964 min 
+node(78):saved! - 220.8966 min 
+node(71):testingSet is done! - 221.0271 min 
+node(71):saved! - 221.0273 min 
+node(64):testingSet is done! - 221.0335 min 
+node(64):saved! - 221.0337 min 
+merge:waiting for node(2) - 221.3265 min 
+node(17):testingSet is done! - 221.4287 min 
+node(17):saved! - 221.4291 min 
+node(53):testingSet is done! - 221.8171 min 
+node(53):saved! - 221.8175 min 
+merge:waiting for node(2) - 221.8293 min 
+node(62):testingSet is done! - 222.1742 min 
+node(62):saved! - 222.1745 min 
+merge:waiting for node(2) - 222.332 min 
+node(42):testingSet is done! - 222.457 min 
+node(42):saved! - 222.4573 min 
+node(66):testingSet is done! - 222.5599 min 
+node(66):saved! - 222.5602 min 
+merge:waiting for node(2) - 222.8345 min 
+merge:waiting for node(2) - 223.3373 min 
+node(2):testingSet is done! - 223.6675 min 
+node(2):saved! - 223.6679 min 
+merge:done for node(2) - 223.8399 min 
+merge:done for node(3) - 223.84 min 
+merge:done for node(4) - 223.8401 min 
+merge:done for node(5) - 223.8402 min 
+merge:done for node(6) - 223.8403 min 
+merge:done for node(7) - 223.8404 min 
+merge:done for node(8) - 223.8405 min 
+merge:done for node(9) - 223.8405 min 
+merge:done for node(10) - 223.8406 min 
+merge:done for node(11) - 223.8406 min 
+merge:done for node(12) - 223.8407 min 
+merge:done for node(13) - 223.8407 min 
+merge:done for node(14) - 223.8408 min 
+merge:done for node(15) - 223.8408 min 
+merge:done for node(16) - 223.8409 min 
+merge:done for node(17) - 223.841 min 
+merge:done for node(18) - 223.8411 min 
+merge:done for node(19) - 223.8411 min 
+merge:done for node(20) - 223.8412 min 
+merge:done for node(21) - 223.8413 min 
+merge:done for node(22) - 223.8414 min 
+merge:done for node(23) - 223.8414 min 
+merge:done for node(24) - 223.8415 min 
+merge:done for node(25) - 223.8416 min 
+merge:done for node(26) - 223.8417 min 
+merge:done for node(27) - 223.8418 min 
+merge:done for node(28) - 223.8419 min 
+merge:done for node(29) - 223.8419 min 
+merge:done for node(30) - 223.842 min 
+merge:done for node(31) - 223.8421 min 
+merge:done for node(32) - 223.8422 min 
+merge:done for node(33) - 223.8423 min 
+merge:done for node(34) - 223.8424 min 
+merge:done for node(35) - 223.8425 min 
+merge:done for node(36) - 223.8426 min 
+merge:done for node(37) - 223.8427 min 
+merge:done for node(38) - 223.8427 min 
+merge:done for node(39) - 223.8428 min 
+merge:done for node(40) - 223.8429 min 
+merge:done for node(41) - 223.843 min 
+merge:done for node(42) - 223.8431 min 
+merge:done for node(43) - 223.8432 min 
+merge:done for node(44) - 223.8433 min 
+merge:done for node(45) - 223.8433 min 
+merge:done for node(46) - 223.8435 min 
+merge:done for node(47) - 223.8436 min 
+merge:done for node(48) - 223.8437 min 
+merge:done for node(49) - 223.8438 min 
+merge:done for node(50) - 223.8439 min 
+merge:done for node(51) - 223.844 min 
+merge:done for node(52) - 223.8441 min 
+merge:done for node(53) - 223.8442 min 
+merge:done for node(54) - 223.8443 min 
+merge:done for node(55) - 223.8444 min 
+merge:done for node(56) - 223.8445 min 
+merge:done for node(57) - 223.8446 min 
+merge:done for node(58) - 223.8447 min 
+merge:done for node(59) - 223.8448 min 
+merge:done for node(60) - 223.8449 min 
+merge:done for node(61) - 223.845 min 
+merge:done for node(62) - 223.8451 min 
+merge:done for node(63) - 223.8452 min 
+merge:done for node(64) - 223.8453 min 
+merge:done for node(65) - 223.8454 min 
+merge:done for node(66) - 223.8456 min 
+merge:done for node(67) - 223.8457 min 
+merge:done for node(68) - 223.8458 min 
+merge:done for node(69) - 223.8459 min 
+merge:done for node(70) - 223.8461 min 
+merge:done for node(71) - 223.8462 min 
+merge:done for node(72) - 223.8463 min 
+merge:done for node(73) - 223.8465 min 
+merge:done for node(74) - 223.8466 min 
+merge:done for node(75) - 223.8468 min 
+merge:done for node(76) - 223.8469 min 
+merge:done for node(77) - 223.847 min 
+merge:done for node(78) - 223.8472 min 
+merge:done for node(79) - 223.8473 min 
+merge:done for node(80) - 223.8475 min 
+merge:done for node(81) - 223.8476 min 
+merge:done for node(82) - 223.8477 min 
+merge:done for node(83) - 223.8479 min 
+merge:done for node(84) - 223.848 min 
+merge:done for node(85) - 223.8482 min 
+merge:done for node(86) - 223.8483 min 
+merge:done for node(87) - 223.8484 min 
+merge:done for node(88) - 223.8486 min 
+merge:done for node(89) - 223.8487 min 
+merge:done for node(90) - 223.8489 min 
+merge:done for node(91) - 223.849 min 
+merge:done for node(92) - 223.8492 min 
+merge:done for node(93) - 223.8493 min 
+merge:done for node(94) - 223.8495 min 
+merge:done for node(95) - 223.8496 min 
+merge:done for node(96) - 223.8498 min 
+merge:saved! - 223.8542 min 
+merge: svm done! Accuracy 0.89016 - 223.8642 min 
+merge: Experiment is Done! - 223.9376 min 

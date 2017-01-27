@@ -1,0 +1,19 @@
+#PBS -N CB-COSFIRE-Compile
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=00:10:00
+#PBS -j oe
+#cd $PBS_O_WORKDIR
+mcc -m wrapper/callTraining.m -R -singleCompThread -R -nojvm -R -nodisplay -d compile -I ../CCOSFIRE
+mcc -m wrapper/callTesting.m -R -singleCompThread -R -nojvm -R -nodisplay -d compile -I ../CCOSFIRE -I ../libsvm-3.17/matlab
+mcc -m wrapper/callMerge.m -R -singleCompThread -R -nojvm -R -nodisplay -d compile -I ../CCOSFIRE -I ../libsvm-3.17/matlab
+wait
+rm compile/readme.txt
+rm compile/run_callMerge.sh
+rm compile/run_callTesting.sh
+rm compile/run_callTraining.sh
+rm compile/mccExcludedFiles.log
+rm compile/min.txt
+rm compile/name.txt
+rm compile/run_initialize.sh
+chmod 744 compile/m
+chmod 744 compile/rmjobs.sh

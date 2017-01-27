@@ -1,0 +1,64 @@
+complete 
+Accuracy(SVM):0.890160 
+Max Time:119.999757 
+Mean Time:106.467808*96 
+Train Time:2.802380 
+SVM Time:0.007920 
+num.Filters:895(0+895)
+Admiral:0.952941
+BlackSwallowtail:0.937500
+Machaon:0.859649
+MonarchClosed:0.770833
+MonarchOpen:0.844828
+Peacock:0.935185
+Zebra:0.876923 
+        params: [1x1 struct]
+    totalPixel: 4000
+       classes: [1 2 3 4 5 6 7]
+       svmconf: '-s 0 -t 0 -b 0 -h 0 -c 1e+6'
+        frames: 30
+        nNodes: 96
+             c: [2015 6 20 14 8 11.1470]
+       expName: '20-Jun-2015_14-07'
+         queue: 'quads'
+    datasetdir: '/home/s2365596/datasets/butterfly/'
+       homedir: '/home/s2365596/v7/bf/'
+       datadir: '/home/s2365596/v7/bf/'
+        folder: '/home/s2365596/v7/bf/exps/20-Jun-2015_14-07/'
+    tempfolder: '/home/s2365596/v7/bf/exps/20-Jun-2015_14-07/'
+           log: '/home/s2365596/v7/bf/exps/20-Jun-2015_14-07/log.txt'
+      savefile: '/home/s2365596/v7/bf/exps/20-Jun-2015_14-07/xy.mat'
+    ResultFile: '/home/s2365596/v7/bf/exps/20-Jun-2015_14-07/overall.txt'
+           fID: 3
+
+                      t1: [0.2000 0.5500 0.5500]
+                      t2: 0.4000
+                       b: [0 0 0]
+             disk_radius: 0.9600
+              minNTuples: 10
+                  lambda: 0
+                     eps: 1.0000e-08
+          mintupleweight: 0.0500
+    outputweightfunction: 'geometric'
+
+  Columns 1 through 7
+
+    0.6400    0.7879    0.9701    1.1943    1.4703    1.8102    2.2286
+
+  Columns 8 through 11
+
+    2.7437    3.3779    4.1587    5.1200
+
+            name: 'Lab'
+    illumination: 1
+           color: [2 3]
+           gamma: [0.4000 1 1]
+        channels: [1 2 3]
+
+     T: 'partial'
+    Sz: [5.5000 5.5000 5.5000 5.5000 5.5000 5.5000 5.5000 5.5000]
+     N: 2
+
+ 
+
+ 
