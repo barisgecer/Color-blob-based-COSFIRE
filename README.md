@@ -26,7 +26,8 @@ Below we have short explanations of the scripts:
 /CCOSFIRE
 	Contains the core functions of our approach
 	
-/ts
+ /ts
+ 
 	Contains the codes for the experiments on the GTSRB data set (traffic signs)
 	/wrapper
 		The actual codes
@@ -34,8 +35,10 @@ Below we have short explanations of the scripts:
 	/compile
 		Files needed to run the code on cluster
 	/exps
-		Experiment results (i.e. see overall.txt or confusionMatrix)	
+		Experiment results (i.e. see overall.txt or confusionMatrix)
+		
 /bf
+
 	Contains the codes for the experiments on the butterfly data set
 	/wrapper
 		The actual codes
@@ -44,11 +47,14 @@ Below we have short explanations of the scripts:
 		Files needed to run the code on cluster
 	/exps
 		Experiment results (i.e. see overall.txt or confusionMatrix)
+		
 /org
+
 	Contains the codes and experiments of the original COSFIRE paper:
 	G. Azzopardi and N. Petkov, “Trainable COSFIRE filters for keypoint detection and pattern recognition”, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 35 (2), pp. 490-503, 2013.
 
 /libsvm-3.17
+
 	contains libsvm codes directly adapted from: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 	Please cite their work if you use it: https://www.csie.ntu.edu.tw/~cjlin/libsvm/faq.html#f203
 
