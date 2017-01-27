@@ -1,0 +1,76 @@
+Training 0. category... Iterations:+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----
+Training 1. category... Iterations:+-----{Warning: Failed to converge in 100 iterationsduring replicate 6.} 
+{> In kmeans at 288
+  In ClusterImages at 27
+  In trainFilters at 29
+  In callTraining at 8} 
+{Warning: Failed to converge in 100 iterationsduring replicate 22.} 
+{> In kmeans at 288
+  In ClusterImages at 27
+  In trainFilters at 29
+  In callTraining at 8} 
+{Warning: Failed to converge in 100 iterationsduring replicate 51.} 
+{> In kmeans at 288
+  In ClusterImages at 27
+  In trainFilters at 29
+  In callTraining at 8} 
+{Warning: Failed to converge in 100 iterationsduring replicate 61.} 
+{> In kmeans at 288
+  In ClusterImages at 27
+  In trainFilters at 29
+  In callTraining at 8} 
+{Warning: Failed to converge in 100 iterationsduring replicate 98.} 
+{> In kmeans at 288
+  In ClusterImages at 27
+  In trainFilters at 29
+  In callTraining at 8} 
+{Warning: Failed to converge in 100 iterationsduring replicate 99.} 
+{> In kmeans at 288
+  In ClusterImages at 27
+  In trainFilters at 29
+  In callTraining at 8} 
++-----+-----+-----+-----+-----+-----+-----+-----+-----
+Training 2. category... Iterations:+-----+-----+-----+-----+-----+-----+-----+-----
+Training 3. category... Iterations:+-----+-----+-----+-----+-----++-----
+Training 4. category... Iterations:+-----+-----+-----+-----
+Training 5. category... Iterations:+-----+-----+-----+-----+-----+-----
+Training 6. category... Iterations:+----+---+-----+-+-+---+-----
+Training 7. category... Iterations:+-----+-----+-----+-----+-----
+Training 8. category... Iterations:+----+-----+-----+-----+-----
+Training 9. category... Iterations:+-----+-----+-----+-----+-----+-----
+Training 10. category... Iterations:+-+----+-
+Training 11. category... Iterations:+-----+-----+-----+-----+-----+-----+-----+----+-----+---
+Training 12. category... Iterations:++++-----+----+----
+Training 13. category... Iterations:+-----+-----+-----+-----+-----+-----
+Training 14. category... Iterations:+-----++-+-----+----+-----+-----+-----+-----
+Training 15. category... Iterations:+-----+-+-----+-----+-----+-----+--
+Training 16. category... Iterations:+-----+-----+-----+----+-----+-----
+Training 17. category... Iterations:++-++----++
+Training 18. category... Iterations:+-----+-----+-----+-----+-----+-----
+Training 19. category... Iterations:+-----+-----+-----+-----+-----
+Training 20. category... Iterations:+---+-----+----+--
+Training 21. category... Iterations:+----+-----+----+-----+-----+-----+-----+-----+----+----
+Training 22. category... Iterations:+-----+-----+-----+-----+-----+----
+Training 23. category... Iterations:+-----+-----+-----+-----+-----+-----
+Training 24. category... Iterations:+-----+-----+-----+-----+-----+-----
+Training 25. category... Iterations:+-----+-----+-----+-----+-----+----+----
+Training 26. category... Iterations:+-+-----+---+-----
+Training 27. category... Iterations:+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+---
+Training 28. category... Iterations:+-----+-----+-----+----+-----
+Training 29. category... Iterations:+-----+-----+-----+---+-----+-----+-----+-----+-----+-----
+Training 30. category... Iterations:+-----+-----+-----+-----+----+-----
+Training 31. category... Iterations:+-----+-----+-----+----+---
+Training 32. category... Iterations:+++++-+
+Training 33. category... Iterations:+-+-----+++--+-----+
+Training 34. category... Iterations:+-+---+-----+++---++-----
+Training 35. category... Iterations:+---+++-----+-++
+Training 36. category... Iterations:++--+++--++-----
+Training 37. category... Iterations:++-----+-----++-+----+-----+-----+---+---+
+Training 38. category... Iterations:+---+----+++--
+Training 39. category... Iterations:+-+++-----+--
+Training 40. category... Iterations:+----++-----+-----+-----+-----+-----+-----
+Training 41. category... Iterations:++-++
+Training 42. category... Iterations:++-++-+
+Configuration is done!
+292 full 1110 partial 1402 total filters are configured.
+Training time is 54.432601 min

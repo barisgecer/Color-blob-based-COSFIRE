@@ -1,0 +1,36 @@
+# Run MATLAB
+min=80 # Training Time
+min2=120 #330*98 Testing Time
+min3=600 # Svm Time
+min4=60 # Training Dummy
+minDummy=1
+min_=$(expr "$min" + 1)
+sum=$(expr "$min_" + "$minDummy" + 1)
+sumTr=$(expr "$min" + "$min4" + 1)
+now=$(date)
+name=$(date -d "$now" +'%d-%h-%Y_%H-%M')
+subdate=$(date -d "$now $min_ mins" +'%H%M' )
+subdate2=$(date -d "$now $sum mins" +'%H%M' )
+echo $name > compile/name.txt
+echo $min > compile/min.txt
+mcc -m wrapper/initialize.m  -R -singleCompThread -R -nojvm -R -nodisplay -d compile -I ../CCOSFIRE
+wait
+rm compile/run_initialize.sh
+rm compile/mccExcludedFiles.log
+rm compile/readme.txt
+rm compile/min.txt
+rm compile/name.txt
+
+cd compile
+chmod 744 initialize 
+./initialize $name $subdate $subdate2 $min2  $min3
+cd ..
+wait
+
+cd exps/$name/
+qsub -q quads trainsubmit.sh -l walltime=00:$sumTr:00
+
+cd jobs
+chmod 744 submitjobs.sh
+
+./submitjobs.sh

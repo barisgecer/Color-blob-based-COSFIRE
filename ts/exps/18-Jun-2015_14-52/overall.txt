@@ -1,0 +1,97 @@
+complete 
+Accuracy(SVM):0.989707 
+Max Time:59.338823 
+Mean Time:56.586843*480 
+Train Time:54.432601 
+SVM Time:244.838885 
+num.Filters:1402(292+1110)
+SpeedLimits:0.990887
+OtherProh:0.999333
+Derestraction:0.941667
+Mandatory:0.998305
+Danger:0.979570
+Unique:0.995098 
+         params: [1x1 struct]
+            szv: 50
+             sz: [50 50]
+          nConf: 100000
+         pcaThr: 0.0250
+        classes: [1x43 double]
+    gausWeSigma: 8
+      splitGrid: [2 2]
+        svmconf: '-s 0 -t 0 -b 0 -h 0 -c 1e+6'
+         frames: [1x30 double]
+      framessvm: [1x30 double]
+         nNodes: 480
+              c: [2015 6 18 14 52 55.7651]
+        expName: '18-Jun-2015_14-52'
+          queue: 'nodes'
+     datasetdir: '/home/s2365596/datasets/GTSRB/'
+        homedir: '/home/s2365596/v7/ts/'
+        datadir: '/home/s2365596/v7/ts/'
+         folder: '/home/s2365596/v7/ts/exps/18-Jun-2015_14-52/'
+     tempfolder: '/home/s2365596/v7/ts/exps/18-Jun-2015_14-52/'
+            log: '/home/s2365596/v7/ts/exps/18-Jun-2015_14-52/log.txt'
+       savefile: '/home/s2365596/v7/ts/exps/18-Jun-2015_14-52/xy.mat'
+     ResultFile: '/home/s2365596/v7/ts/exps/18-Jun-2015_14-52/overall.txt'
+            fID: 3
+
+                      t1: [0.2000 0.5500 0.5500]
+                      t2: 0.4000
+                       b: [0.3000 1.1000 1.1000]
+             disk_radius: 0.9600
+              minNTuples: 10
+                  lambda: 0
+                     eps: 1.0000e-08
+          mintupleweight: 0.0500
+    outputweightfunction: 'geometric'
+
+  Columns 1 through 7
+
+    0.5000    0.7500    1.0000    1.2500    1.5000    1.7500    2.0000
+
+  Columns 8 through 14
+
+    2.2500    2.5000    2.7500    3.0000    3.2500    3.5000    3.7500
+
+  Columns 15 through 21
+
+    4.0000    4.2500    4.5000    4.7500    5.0000    5.2500    5.5000
+
+  Columns 22 through 28
+
+    5.7500    6.0000    6.2500    6.5000    6.7500    7.0000    7.2500
+
+  Columns 29 through 35
+
+    7.5000    7.7500    8.0000    8.2500    8.5000    8.7500    9.0000
+
+  Columns 36 through 42
+
+    9.2500    9.5000    9.7500   10.0000   10.2500   10.5000   10.7500
+
+  Columns 43 through 49
+
+   11.0000   11.2500   11.5000   11.7500   12.0000   12.2500   12.5000
+
+  Columns 50 through 56
+
+   12.7500   13.0000   13.2500   13.5000   13.7500   14.0000   14.2500
+
+  Columns 57 through 59
+
+   14.5000   14.7500   15.0000
+
+            name: 'Lab'
+    illumination: 1
+           color: [2 3]
+           gamma: [0.4000 1 1]
+        channels: [1 2 3]
+
+     T: 'together'
+    Sz: [12 12 12 12 12]
+     N: 5
+
+ 
+
+ 
