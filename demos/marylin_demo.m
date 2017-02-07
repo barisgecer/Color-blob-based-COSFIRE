@@ -7,8 +7,9 @@
 %	COSFIRE filters for Object Recognition” Image and Vision 
 %	Computing, vol. 57, pp. 165-174, 2017.
 
+addpath('../CCOSFIRE');
 % Load image
-im = imresize(imread('prototype.jpg'),0.1);
+im = imresize(imread('marylin.jpg'),0.1);
 % Load parameters
 params = Parameters;
 params.partial.T = 'full';
